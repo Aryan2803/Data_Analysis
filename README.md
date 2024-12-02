@@ -7,7 +7,7 @@ Welcome to the **Data Analysis** repository! In this project, I've completed **5
 ## 🔥 Projects Overview
 
 ### 1. **Data Visualization** 📈
-   - **Description**: Created animated plots using **Matplotlib** to visualize dynamic data. This includes **line chart animations** and **scatter plot animations**, showcasing how to represent time-varying data effectively.
+   - **Description**: Created animated plots using **Matplotlib** to visualize dynamic data. This includes **line chart animations**, **scatter plot animations**, **Bar chart animations** and **Histogram**, showcasing how to represent time-varying data effectively.
    - **Key Skills**: Data visualization, Matplotlib, Animation.
    - **Technologies Used**: Python, Matplotlib, Numpy.
 
