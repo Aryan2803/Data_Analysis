@@ -48,7 +48,7 @@ Welcome to the **Data Analysis** repository! In this project, I've completed **5
 ---
 
 ### 5. **Classification with Decision Tree and Random Forest** 🌲
-   - **Description**: Used **Decision Tree** and **Random Forest** classifiers to predict outcomes based on the **Sales dataset**. Aimed for high accuracy with both models to assess their performance.
+   - **Description**: In this project, **Decision Tree** and **Random Forest classifiers** were applied to predict outcomes based on the Sales dataset. The goal was to achieve high accuracy with both models and compare their performance. These models were trained, tuned, and evaluated to understand how well they can classify data and predict outcomes in the given sales context.
    - **Key Skills**: Classification, Decision Tree, Random Forest, Model evaluation.
    - **Technologies Used**: Python, Scikit-learn, Kaggle datasets.
    - **Dataset**: [Sales Dataset](https://www.kaggle.com/datasets/nishathakkar/100-sales)
