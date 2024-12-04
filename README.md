@@ -29,9 +29,20 @@ Welcome to the **Data Analysis** repository! In this project, I've completed **5
 ---
 
 ### 4. **Feature Selection Methods and High Accuracy ML Model** 🧠
-   - **Description**: Applied three **feature selection techniques** (Filter, Wrapper, Embedded methods) to the **Breast Cancer dataset**. Implemented a machine learning model that achieved **accuracy above 90%**.
-   - **Key Skills**: Feature selection, Data preprocessing, Machine Learning (ML), Accuracy improvement.
+   - **Description**: Applied three **feature selection techniques** (Filter, Wrapper, Embedded methods) to the **Breast Cancer dataset**. Implemented a machine learning model that achieved **accuracy above 90%** using a **Random Forest Classifier**.
+   - **Key Skills**: Feature Selection (Filter, Wrapper, Embedded)
+                     Data Preprocessing (Scaling, Encoding)
+                     Machine Learning (Random Forest, Accuracy Improvement)
    - **Technologies Used**: Python, Scikit-learn, Kaggle datasets.
+   - **Steps**:
+     1. Preprocessed and scaled the dataset, encoding the target variable.
+     2. Applied feature selection:
+            Filter: Chi-Square test.
+            Wrapper: Recursive Feature Elimination (RFE).
+            Embedded: Random Forest feature importance.
+     3. Trained a Random Forest model and tuned hyperparameters for over 90% accuracy.
+   - **Results**:
+      Achieved **90%+ accuracy** using all three feature selection methods.
    - **Dataset**: [Breast Cancer Dataset](https://www.kaggle.com/datasets/yasserh/breast-cancer-dataset)
 
 ---
