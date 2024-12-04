@@ -14,9 +14,10 @@ Welcome to the **Data Analysis** repository! In this project, I've completed **5
 ---
 
 ### 2. **Data Fusion and Reshaping for Complex Analytical Datasets** 🔗
-   - **Description**: Merged and reshaped data from multiple DataFrames to create complex analytical datasets. Applied **data fusion techniques** to manipulate and combine data efficiently for further analysis.
-   - **Key Skills**: Data wrangling, Pandas, DataFrame manipulation.
-   - **Technologies Used**: Python, Pandas.
+   - **Description**: Merged and reshaped data from multiple DataFrames to create complex analytical datasets. Applied data fusion techniques to manipulate and combine data efficiently for further analysis. Additionally, visualized key insights through various plots such as line charts, scatter plots, and histograms to enhance data interpretation.
+   - **Key Skills**: Data wrangling, Pandas, DataFrame manipulation, Data visualization.
+   - **Technologies Used**: Python, Pandas, Matplotlib, Seaborn.
+   - **Output**: Final datasets after reshaping and data fusion, along with corresponding charts.
 
 ---
 
